@@ -135,7 +135,7 @@ Please cite our paper if you find it helpful.
 
 1. **Data augmentation using learned transformations for one-shot medical image segmentation,** in CVPR, 2019.
 *A. Zhao, G. Balakrishnan, F. Durand, J. V. Guttag, and A. V. Dalca.*
-[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Data_Augmentation_Using_Learned_Transformations_for_One-Shot_Medical_Image_Segmentation_CVPR_2019_paper.pdf)
+[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Data_Augmentation_Using_Learned_Transformations_for_One-Shot_Medical_Image_Segmentation_CVPR_2019_paper.pdf) [code](https://github.com/xamyzhao/brainstorm)
 
 1. **Adversarial feature hallucination networks for few-shot learning,** in CVPR, 2020.
 *K. Li, Y. Zhang, K. Li, and Y. Fu.*
